@@ -75,7 +75,7 @@ Last Edited 22/03/2024
 ### <div align="center">I am an artist, feel free to explore my art</div>
 
 <div align="center">
-<a href="[https://github.com/mikget66](https://www.instagram.com/michael_anwar22/?hl=en)" target="_blank">
+<a href="https://www.instagram.com/michael_anwar22/?hl=en" target="_blank">
 <img src=https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg alt=github style="margin-bottom: 5px;" />
 </a>
 </div> 

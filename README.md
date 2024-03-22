@@ -66,17 +66,24 @@ bg_color=#808080/>
 
 <br/>
 
+
+⚡ Fun fact: Did you know that art has the power to inspire, evoke emotions, and spark our imagination?
+
+### <div align="center">Welcome to my artistic world!</div>
+
+<div align="center">
+<a href="https://www.instagram.com/michael_anwar22/?hl=en" target="_blank">
+<img src=https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div> 
+
+Immerse yourself in a gallery of captivating artworks that aim to inspire and ignite your imagination. From breathtaking landscapes to thought-provoking portraits, each creation carries a piece of my soul.
+
+Click on the Instagram icon above to explore my latest masterpieces. Join me on this artistic adventure, and let's celebrate the boundless creativity that brings us all together.
+
+Remember, art has the power to transform, to uplift, and to change the world. Let's embark on this incredible journey together!
+
 ---
 
 [Michael-Anwar](https://github.com/mikget66)
 Last Edited 22/03/2024
-
-- ⚡ Fun fact: ...
-### <div align="center">I am an artist, feel free to explore my art</div>
-
-<div align="center">
-<a href="https://www.instagram.com/michael_anwar22/?hl=en" target="_blank">
-<img src=https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg alt=github style="margin-bottom: 5px;" />
-</a>
-</div> 
-
